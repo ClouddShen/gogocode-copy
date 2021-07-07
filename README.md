@@ -40,7 +40,7 @@ const AST = $(code);
 ```
 -----
 
-- 小明想将 所有的 `a` 变量名替换为 `c`，只需要
+- 小红想将 所有的 `a` 变量名替换为 `c`，只需要
 
 ```javascript
 $(code).replace('a', 'c')
